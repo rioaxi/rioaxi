@@ -9,7 +9,9 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## :warning: Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/rioaxi/vulnerability-management-program)**
+<!--- 
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/rioaxi/programmatic-vulnerability-remediations)**
+-->
 
 ## :dart: Threat Hunting and Security Operations
 
@@ -20,8 +22,11 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## :point_down: Connect With Me
 
 [<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="___________ | Credly" width="22px" src="https://github.com/user-attachments/assets/8407bf51-5dad-4c68-b666-d1569e155633" />][credly]
+
 
 [linkedin]: https://linkedin.com/in/xi-yu-240319
+[credly]: https://www.credly.com/users/tikka-yu
 
 <!--
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
