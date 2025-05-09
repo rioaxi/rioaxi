@@ -17,6 +17,9 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/rioaxi/threat-hunting-scenario-tor)**
 
+## :mag: Endpoint Forensics
+- **[Forensic Investigation using Volatility 3](https://github.com/rioaxi/forensic-investigation-Volatility3)**
+
 <hr/>
 
 ## :point_down: Connect With Me
