@@ -16,6 +16,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## :dart: Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/rioaxi/threat-hunting-scenario-tor)**
+- **[IBM QRadar Investigation Report](https://github.com/rioaxi/QRadar101-lab)**
 
 ## :mag: Endpoint Forensics
 - **[Forensic Investigation using Volatility 3](https://github.com/rioaxi/forensic-investigation-Volatility3)**
