@@ -1,9 +1,8 @@
 # <a href="https://www.linkedin.com/in/xi-yu-240319/">Tikka</a>'s IT and Cybersecurity Project Portfolio :globe_with_meridians:
 
-I am a fast learning cybersecurity professional who thrives on challenges, such as detecting security vulnerabilities, developing business-centric mitigation solutions and working with cross functional teams to implement strategic projects. I bring over 5 years of experience in large team environments for a large multinational public cybersecurity leader. I bring a business needs centered mindset, by collaborating with teams such as security engineers, DevOps and developers to propose and implement cybersecurity solutions that will result in optimal risk reduction for the cost, maximizing business continuity and support business strategies. 
+Hi there! I'm Tikka — a CISSP-certified cybersecurity professional with a background in IT auditing, QA, and security operations.
 
-
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+I’m passionate about building practical, real-world defenses. My work spans vulnerability management, threat detection, security automation, and memory forensics. Check out my projects to see how I apply tools like Microsoft Sentinel, Tenable, and Volatility in home lab environments and operational scenarios.
 
 
 ## :warning: Vulnerability Management Projects
